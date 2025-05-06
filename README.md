@@ -1,4 +1,4 @@
-# 🤖 Knight Bot
+# EINSTEN MD BOT
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
@@ -16,7 +16,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ---
 
-## 🚀 Steps to Deploy
+## 🚀 Steps to Deploy EINSTEN MD BOT
 
 ### Step 1: Fork the Repository
 
